@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PHScapin
-- 👀 I’m interested in Software, Electrical, and Mechanical Engineering! I'm also learning Machine Learning Algorithms!
-- 🌱 I’m currently learning QA features
+- 👋 Hi, I'm @PHScapin
+- 👀 I'm interested in Software, Electrical, and Mechanical Engineering! I'm also learning Machine Learning Algorithms!
+- 🪴 I'm currently pursuing a postgraduate degree in Artificial Intelligence at USP.
 - 📫 To reach me, send me a message on scapin001@gmail.com
 
 <!---
